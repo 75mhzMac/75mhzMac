@@ -1,6 +1,6 @@
 ## Nicky Van Lanen
 - 🖥 CPU Art / PowerPC User
-- 🐡 Learning to use OpenBSD
+- 🐡 Learning OpenBSD basics
 - ✍ Currently writing notes for installing multiple operating systems on G4 Macs.
 
 <!---
